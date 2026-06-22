@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.tictactoe.ComputerPlayerTest" time="3.109" tests="5" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.tictactoe.ComputerPlayerTest" time="3.128" tests="5" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-21-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/home/noelcyriac/Documents/June_Projects/Tic-Tac-Toe/target/surefire/surefirebooter-20260622162523662_3.jar /home/noelcyriac/Documents/June_Projects/Tic-Tac-Toe/target/surefire 2026-06-22T16-25-23_517-jvmRun1 surefire-20260622162523662_1tmp surefire_0-20260622162523662_2tmp"/>
+    <property name="sun.java.command" value="/home/noelcyriac/Documents/June_Projects/Tic-Tac-Toe/target/surefire/surefirebooter-20260622165720330_3.jar /home/noelcyriac/Documents/June_Projects/Tic-Tac-Toe/target/surefire 2026-06-22T16-57-20_241-jvmRun1 surefire-20260622165720330_1tmp surefire_0-20260622165720330_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/noelcyriac/Documents/June_Projects/Tic-Tac-Toe/target/test-classes:/home/noelcyriac/Documents/June_Projects/Tic-Tac-Toe/target/classes:/home/noelcyriac/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.16.1/jackson-databind-2.16.1.jar:/home/noelcyriac/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.16.1/jackson-annotations-2.16.1.jar:/home/noelcyriac/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.16.1/jackson-core-2.16.1.jar:/home/noelcyriac/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.16.1/jackson-datatype-jsr310-2.16.1.jar:/home/noelcyriac/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2.jar:/home/noelcyriac/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/home/noelcyriac/.m2/repository/org/junit/platform/junit-platform-commons/1.10.2/junit-platform-commons-1.10.2.jar:/home/noelcyriac/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/noelcyriac/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.2/junit-jupiter-engine-5.10.2.jar:/home/noelcyriac/.m2/repository/org/junit/platform/junit-platform-engine/1.10.2/junit-platform-engine-1.10.2.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -27,7 +27,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/home/noelcyriac/Documents/June_Projects/Tic-Tac-Toe/target/surefire/surefirebooter-20260622162523662_3.jar"/>
+    <property name="surefire.real.class.path" value="/home/noelcyriac/Documents/June_Projects/Tic-Tac-Toe/target/surefire/surefirebooter-20260622165720330_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.11+10-1-22.04.2-Ubuntu"/>
     <property name="user.name" value="noelcyriac"/>
@@ -53,7 +53,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="testMediumComputerPlayerBlocksOpponentWin" classname="com.tictactoe.ComputerPlayerTest" time="0.658">
+  <testcase name="testMediumComputerPlayerBlocksOpponentWin" classname="com.tictactoe.ComputerPlayerTest" time="0.667">
     <system-out><![CDATA[&amp#27;[0;90mComputer (MEDIUM) is thinking...&amp#27;[0m
 ]]></system-out>
   </testcase>
@@ -65,11 +65,11 @@
     <system-out><![CDATA[&amp#27;[0;90mComputer (EASY) is thinking...&amp#27;[0m
 ]]></system-out>
   </testcase>
-  <testcase name="testMediumComputerPlayerCenterOccupiedFallback" classname="com.tictactoe.ComputerPlayerTest" time="0.604">
+  <testcase name="testMediumComputerPlayerCenterOccupiedFallback" classname="com.tictactoe.ComputerPlayerTest" time="0.607">
     <system-out><![CDATA[&amp#27;[0;90mComputer (MEDIUM) is thinking...&amp#27;[0m
 ]]></system-out>
   </testcase>
-  <testcase name="testMediumComputerPlayerTakesCenter" classname="com.tictactoe.ComputerPlayerTest" time="0.602">
+  <testcase name="testMediumComputerPlayerTakesCenter" classname="com.tictactoe.ComputerPlayerTest" time="0.603">
     <system-out><![CDATA[&amp#27;[0;90mComputer (MEDIUM) is thinking...&amp#27;[0m
 ]]></system-out>
   </testcase>
