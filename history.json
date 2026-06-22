@@ -1,0 +1,153 @@
+[ {
+  "dateTime" : "2026-06-22 10:06:16",
+  "player1Name" : "King",
+  "player2Name" : "Computer (EASY)",
+  "player1Wins" : 2,
+  "player2Wins" : 1,
+  "draws" : 0,
+  "winnerName" : "King"
+}, {
+  "dateTime" : "2026-06-22 10:14:18",
+  "player1Name" : "King",
+  "player2Name" : "Queen",
+  "player1Wins" : 1,
+  "player2Wins" : 0,
+  "draws" : 0,
+  "winnerName" : "King"
+}, {
+  "dateTime" : "2026-06-22 10:18:07",
+  "player1Name" : "Queen",
+  "player2Name" : "Computer (EASY)",
+  "player1Wins" : 2,
+  "player2Wins" : 0,
+  "draws" : 0,
+  "winnerName" : "Queen"
+}, {
+  "dateTime" : "2026-06-22 10:19:36",
+  "player1Name" : "King",
+  "player2Name" : "Queen",
+  "player1Wins" : 1,
+  "player2Wins" : 0,
+  "draws" : 0,
+  "winnerName" : "King"
+}, {
+  "dateTime" : "2026-06-22 10:25:21",
+  "player1Name" : "Queen",
+  "player2Name" : "Computer (MEDIUM)",
+  "player1Wins" : 1,
+  "player2Wins" : 0,
+  "draws" : 0,
+  "winnerName" : "Queen"
+}, {
+  "dateTime" : "2026-06-22 10:36:07",
+  "player1Name" : "King",
+  "player2Name" : "Computer (EASY)",
+  "player1Wins" : 1,
+  "player2Wins" : 0,
+  "draws" : 0,
+  "winnerName" : "King"
+}, {
+  "dateTime" : "2026-06-22 10:41:11",
+  "player1Name" : "King",
+  "player2Name" : "Computer (MEDIUM)",
+  "player1Wins" : 1,
+  "player2Wins" : 0,
+  "draws" : 0,
+  "winnerName" : "King"
+}, {
+  "dateTime" : "2026-06-22 10:43:18",
+  "player1Name" : "King",
+  "player2Name" : "Queen",
+  "player1Wins" : 1,
+  "player2Wins" : 0,
+  "draws" : 0,
+  "winnerName" : "King"
+}, {
+  "dateTime" : "2026-06-22 10:47:49",
+  "player1Name" : "Queen",
+  "player2Name" : "Computer (MEDIUM)",
+  "player1Wins" : 1,
+  "player2Wins" : 0,
+  "draws" : 0,
+  "winnerName" : "Queen"
+}, {
+  "dateTime" : "2026-06-22 14:56:13",
+  "player1Name" : "akshaya",
+  "player2Name" : "Computer (EASY)",
+  "player1Wins" : 1,
+  "player2Wins" : 0,
+  "draws" : 0,
+  "winnerName" : "akshaya"
+}, {
+  "dateTime" : "2026-06-22 14:58:02",
+  "player1Name" : "King",
+  "player2Name" : "akshaya",
+  "player1Wins" : 1,
+  "player2Wins" : 0,
+  "draws" : 0,
+  "winnerName" : "King"
+}, {
+  "dateTime" : "2026-06-22 15:03:19",
+  "player1Name" : "King",
+  "player2Name" : "akshaya",
+  "player1Wins" : 0,
+  "player2Wins" : 1,
+  "draws" : 2,
+  "winnerName" : "akshaya"
+}, {
+  "dateTime" : "2026-06-22 15:08:41",
+  "player1Name" : "akshaya",
+  "player2Name" : "Computer (MEDIUM)",
+  "player1Wins" : 0,
+  "player2Wins" : 0,
+  "draws" : 1,
+  "winnerName" : "Draw"
+}, {
+  "dateTime" : "2026-06-22 15:17:03",
+  "player1Name" : "King",
+  "player2Name" : "akshaya",
+  "player1Wins" : 0,
+  "player2Wins" : 1,
+  "draws" : 2,
+  "winnerName" : "akshaya"
+}, {
+  "dateTime" : "2026-06-22 15:37:43",
+  "player1Name" : "King",
+  "player2Name" : "akshaya",
+  "player1Wins" : 0,
+  "player2Wins" : 0,
+  "draws" : 1,
+  "winnerName" : "Draw"
+}, {
+  "dateTime" : "2026-06-22 15:42:26",
+  "player1Name" : "King",
+  "player2Name" : "Queen",
+  "player1Wins" : 0,
+  "player2Wins" : 0,
+  "draws" : 1,
+  "winnerName" : "Draw"
+}, {
+  "dateTime" : "2026-06-22 15:49:16",
+  "player1Name" : "King",
+  "player2Name" : "Queen",
+  "player1Wins" : 0,
+  "player2Wins" : 0,
+  "draws" : 1,
+  "winnerName" : "Draw"
+}, {
+  "dateTime" : "2026-06-22 15:53:53",
+  "player1Name" : "King",
+  "player2Name" : "akshaya",
+  "player1Wins" : 0,
+  "player2Wins" : 0,
+  "draws" : 1,
+  "winnerName" : "Draw"
+}, {
+  "dateTime" : "2026-06-22 16:19:38",
+  "player1Name" : "Akshaya",
+  "player2Name" : "Queen",
+  "player1Wins" : 0,
+  "player2Wins" : 0,
+  "draws" : 1,
+  "winnerName" : "Draw"
+} ]
