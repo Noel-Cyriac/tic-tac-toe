@@ -1,6 +1,6 @@
 # ❌ Tic-Tac-Toe Tournament CLI ⭕
 
-A modern, feature-rich, and colorful command-line interface (CLI) Tic-Tac-Toe game written in **Java 21** using **Maven**. This isn't just your standard Tic-Tac-Toe; it features an advanced tournament engine, player profile management with persistent statistics, custom board sizes, rule-based AI opponents, move undo capabilities, and smart early draw detection.
+A modern, feature-rich, and colorful command-line interface (CLI) Tic-Tac-Toe game written in **Java 21** using **Maven**. It features an advanced tournament engine, player profile management with persistent statistics, custom board sizes, rule-based AI opponents, move undo capabilities, and smart early draw detection.
 
 ---
 
@@ -21,7 +21,7 @@ A modern, feature-rich, and colorful command-line interface (CLI) Tic-Tac-Toe ga
     *   Wins / Losses / Draws
     *   Win Rate (%)
 *   **💾 JSON Persistence:** All player statistics (`profiles.json`) and tournament match history (`history.json`) are persistently saved to JSON files using Jackson.
-*   **⚙️ Configurable Properties:** Fine-tune default session settings (default game mode, board size, difficulty, tournament length, and database paths) via `src/main/resources/config.properties`.
+*   **⚙️ Configurable Properties:** Fine-tune default session settings (default game mode, board size, difficulty and tournament length) via `src/main/resources/config.properties`.
 *   **🎨 Rich Terminal UI:** Double-bordered boxes, color-coded indicators, ANSI-styled output, and emojis bring the game to life in your shell.
 
 ---
